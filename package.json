@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Mixaz017/idkr.git"
+    "url": "git+https://github.com/skidlamer/idkr.git"
   },
   "keywords": [
     "Krunker"
@@ -33,7 +33,7 @@
     "@babel/plugin-proposal-class-properties": "^7.13.0",
     "@babel/plugin-proposal-private-methods": "^7.13.0",
     "@types/node": "^12.20.10",
-    "electron": "^12.0.7",
+    "electron": "^13.1.0",
     "electron-builder": "^22.10.5",
     "eslint": "^7.25.0"
   },
@@ -42,8 +42,8 @@
     "electron-localshortcut": "^3.2.1",
     "electron-log": "^4.3.5",
     "electron-store": "^8.0.0",
-    "electron-updater": "^4.3.8",
+    "electron-updater": "^4.3.9",
     "v8-compile-cache": "^2.3.0",
-    "yargs": "^16.2.0"
+    "yargs": "^17.0.1"
   }
 }
